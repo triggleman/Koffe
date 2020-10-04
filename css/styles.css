@@ -1,0 +1,28 @@
+#title {
+  background-color: #302621;
+  color: #fff;
+}
+
+.container-fluid {
+  padding: 3% 15% 7%;
+}
+
+.koffe-title {
+  font-family: 'Fredoka One', cursive;
+  font-size: 3rem;
+}
+
+.main-section {
+  text-align: center;
+  margin-top: 8%;
+}
+
+.title-quote {
+  font-family: 'Bebas Neue', cursive;
+  padding: 25%;
+}
+
+.title-image {
+  width: 80%;
+  right: 50%;
+}
